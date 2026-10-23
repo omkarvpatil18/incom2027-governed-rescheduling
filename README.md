@@ -20,10 +20,6 @@ Industry 6.0 demands that autonomous production decisions be accountable: every 
 ```
 incom2027-repo/
 │
-├── paper/
-│   ├── INCOM2027_Paper_v1.tex      # Main LaTeX source
-│   └── incom2027.bib               # Bibliography
-│
 ├── experiments/
 │   ├── framework.py                # Three-layer governed framework
 │   ├── framework_fast.py           # Greedy baseline + fast utilities
@@ -38,11 +34,6 @@ incom2027-repo/
 │   ├── incom2027_la_results.csv    # Full results: 320 experimental cells
 │   └── incom2027_la_results.json   # Same results in JSON format
 │
-├── figures/
-│   ├── fig1_makespan_improvement.pdf
-│   ├── fig2_replan_rate.pdf
-│   ├── fig3_human_escalation.pdf
-│   └── fig4_schedule_stability.pdf
 │
 └── README.md
 ```
