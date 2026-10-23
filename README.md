@@ -160,19 +160,6 @@ Results are written to `results/incom2027_la_results.csv` and `.json`.
 This work is supported by the European Union's Horizon Europe programme through the project SORT4CIRC (Intelligent Textile Sorting for enabling CIRCularity), Grant Agreement No. 101181988.
 
 ---
-
-## Citation
-
-```bibtex
-@inproceedings{patil2027governed,
-  author    = {Patil, Omkar Vishwas and Fatahi Valilai, Omid},
-  title     = {Governed Autonomy in Production Rescheduling:
-               A Comparative Study Across Disruption Types},
-  booktitle = {Proceedings of the 19th IFAC Symposium on
-               Information, Control and Optimisation in Manufacturing},
-  year      = {2027},
-  address   = {Nantes, France}
-}
 ```
 
 ---
